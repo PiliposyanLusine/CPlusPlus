@@ -1,0 +1,11 @@
+Diagnosses: 
+- High blood pressure
+- Type 2 diabetes
+
+Treatments: 
+- Prescription medication
+- Diet and exercise
+
+Medications: 
+- Lisinopril
+- Metformin

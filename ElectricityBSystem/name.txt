@@ -1,0 +1,5 @@
+Customer Name: name
+Contact Information: constactInfo
+Meter number: meternumber
+Electricity Consumption: 888
+Total Amount Due: $787656
